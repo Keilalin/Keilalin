@@ -10,6 +10,8 @@ E cá estou eu, correndo atrás de um sonho lá do início da minha vida como un
 Desejo me aprimorar mais ainda, descobrir novas habilidades e mudar o futuro da tecnologia, para que ela se torne cada dia mais inclusiva!
 
 ## Um pouco mais sobre mim
+
+Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \
 Dentre os meus hobbies prediletos estão:\
 __Confeitaria - amo assar biscoitos, bolos e doces__ \
 __Kpop e Kdrama - posso ficar horas assistindo minhas séries e MV's favoritos__ \
