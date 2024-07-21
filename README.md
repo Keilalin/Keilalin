@@ -18,12 +18,6 @@ __Kpop e Kdrama - posso ficar horas assistindo minhas séries e MV's favoritos__
 __Games - ultimamente tenho alternado entre Genshin Impact e Honkai Star Rail, mas confesso que as vezes canso e vou direto para meu amigo The Sims ou Stardew Valley__
 
 
-### Cursos em Andamento
-
-[<img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="250"></a>](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
-
-[<img src="https://hermes.dio.me/tracks/96cafabd-f528-41f2-8724-ee665769d044.png" height="250"></a>](https://web.dio.me/track/santander-2024-criando-jogos-com-godot)
-
 
 ### Conecte-se comigo
 
