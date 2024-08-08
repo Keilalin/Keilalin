@@ -8,7 +8,7 @@ Desejo me aprimorar mais ainda, descobrir novas habilidades e mudar o futuro da 
 
 ## Um pouco mais sobre mim
 
-Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \ç
+Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \
 Estudante do curso de Análise e Desenvolvimento de Sistemas \
 E recentemente consegui a certificação AWS Certified Cloud Practitioner \
 Dentre os meus hobbies prediletos estão:\
