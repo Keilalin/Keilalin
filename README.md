@@ -1,8 +1,5 @@
 # Olá! Me chamo Keila Linhares 🍀
 
-
-[<img src="https://github.com/Keilalin/Keilalin/assets/145711288/1f6a649a-a2fe-4151-81b5-486104c6dffd.png" height="250"></a>](https://github.com/Keilalin/Keilalin/assets/145711288/1f6a649a-a2fe-4151-81b5-486104c6dffd)
-
 ## Minha Trajetória
 
 Tenho 36 anos e sou graduada em Nutrição, atuei na área por 10 anos, até que em uma virada de chave, pensei: "E se eu mudasse de área?" \
@@ -11,7 +8,9 @@ Desejo me aprimorar mais ainda, descobrir novas habilidades e mudar o futuro da 
 
 ## Um pouco mais sobre mim
 
-Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \
+Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \ç
+Estudante do curso de Análise e Desenvolvimento de Sistemas \
+E recentemente consegui a certificação AWS Certified Cloud Practitioner \
 Dentre os meus hobbies prediletos estão:\
 __Confeitaria - amo assar biscoitos, bolos e doces__ \
 __Kpop e Kdrama - posso ficar horas assistindo minhas séries e MV's favoritos__ \
@@ -38,12 +37,6 @@ __Games - ultimamente tenho alternado entre Genshin Impact e Honkai Star Rail, m
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keilalin&theme=transparent&bg_color=ead1dc&border_color=de1be1&show_icons=true&icon_color=de1be1&title_color=690b6b&text_color=000)
-
-
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=ead1dc&border_color=de1be1&show_icons=true&icon_color=de1be1&title_color=690b6b&text_color=000)](https://github.com/elidianaandrade/dio-lab-open-source)
-
 
 
 ---
