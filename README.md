@@ -1,23 +1,5 @@
 # Olá! Me chamo Keila Linhares 🍀
 
-## Minha Trajetória
-
-Tenho 36 anos e sou graduada em Nutrição, atuei na área por 10 anos, até que em uma virada de chave, pensei: "E se eu mudasse de área?" \
-E cá estou eu, correndo atrás de um sonho lá do início da minha vida como universitária, quando a tecnologia era ainda vista como um território masculino. \
-Desejo me aprimorar mais ainda, descobrir novas habilidades e mudar o futuro da tecnologia, para que ela se torne cada dia mais inclusiva!
-
-## Um pouco mais sobre mim
-
-Atualmente sou estagiária da Compass UOL, seguindo a trilha DevSecOps em AWS! \
-Estudante do curso de Análise e Desenvolvimento de Sistemas \
-E recentemente consegui a certificação AWS Certified Cloud Practitioner \
-Dentre os meus hobbies prediletos estão:\
-__Confeitaria - amo assar biscoitos, bolos e doces__ \
-__Kpop e Kdrama - posso ficar horas assistindo minhas séries e MV's favoritos__ \
-__Games - ultimamente tenho alternado entre Genshin Impact e Honkai Star Rail, mas confesso que as vezes canso e vou direto para meu amigo The Sims ou Stardew Valley__
-
-
-
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-ead1dc?style=for-the-badge)](https://web.dio.me/users/keilalinhares/)
